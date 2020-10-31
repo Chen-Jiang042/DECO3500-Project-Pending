@@ -60,9 +60,7 @@ The installation detail can be found in the section:
 * [Poster and Brochure](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Poster-and-Brochure)
 * [Feedback from the Showcase](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Feedback-from-the-Showcase)
 
-
 ## Part 6: Document
 * [Appendix](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Appendix)
-   * [First Interview Questionnaire](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/First-Interview-Questionnaire)
+   * [Questionnaire Interview Result](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/First-Interview-Questionnaire)
    * [SUS test](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/SUS-test)
-
