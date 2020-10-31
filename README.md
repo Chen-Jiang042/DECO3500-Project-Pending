@@ -22,3 +22,8 @@ We have implemented most of the design, and this stage is still testing and anal
 ## Part 5 Showcase/prototype (https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Functional-Prototype):
 
 In this part, we have fully implemented our prototype and demonstrated it to others. We have received a lot of feedback. In the showcase, we will analyze the feedback and get the future development direction.
+
+
+## Part 6 Document (https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Appendix):
+
+This part include the appendix and resources we used.
