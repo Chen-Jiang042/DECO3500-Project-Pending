@@ -20,7 +20,11 @@ The installation detail can be found in the section:
 
 
 # Promotional materials:
-
+![1](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/blob/master/images/poster.png)
+![2](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/blob/master/images/p1.png)
+![3](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/blob/master/images/p2.png)
+![4](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/blob/master/images/p3.jpg)
+![5](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/blob/master/images/p4.jpg)
 
 # Process documentation:
 ## Part 1: Proposal
