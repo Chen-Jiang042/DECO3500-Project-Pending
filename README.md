@@ -1,8 +1,20 @@
 # DECO3500-Project-Pending Green Tourism
 
-Hi! We are Group Pending, welcome to our github, our documentations are all in the Wiki page (https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki). Our prototype is divided into six parts over the course of this semester. 
+Hi! We are Group Pending, welcome to our github!
+
+## A link to working prototype:
+The high fidelity prototype was implemented by using Proto.io
+We recommend that to use our online share link to access our Prototype:
+Prototype Link:
+
+https://pr.to/8K1GCM/
+
+Backup Link:
+
+https://pr.to/8PNDYG/
 
 
+# Process documentation:
 ## Part 1: Proposal
 
 * [Proposal](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Part-1:-Proposal)
