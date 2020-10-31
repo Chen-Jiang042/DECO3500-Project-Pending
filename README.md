@@ -4,7 +4,7 @@ Hi! We are Group Pending, welcome to our github!
 
 # A link to working prototype:
 The high fidelity prototype was implemented by using Proto.io
-We recommend that to use our online share link to access our Prototype:
+We recommend use our online share link to access our Prototype:
 
 Prototype Link:
 https://pr.to/8K1GCM/
