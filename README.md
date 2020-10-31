@@ -2,7 +2,7 @@
 
 Hi! We are Group Pending, welcome to our github!
 
-## A link to working prototype:
+# A link to working prototype:
 The high fidelity prototype was implemented by using Proto.io
 We recommend that to use our online share link to access our Prototype:
 Prototype Link:
@@ -13,10 +13,11 @@ https://pr.to/8PNDYG/
 
 It can be cloned in this repository with:
 https://github.com/Chen-Jiang042/DECO3500-Project-Pending.git
+Pay attentions! The file has a large number of Videos (mp4.) Download file might take times and memory (500MB)
 
 The installation detail can be found in the section:
 * [Functional Prototype](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Functional-Prototype)
-Pay attentions! The file has a large number of Videos (mP4) Download file might take times and memory (500MB)
+
 
 # Promotional materials:
 
