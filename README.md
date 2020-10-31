@@ -12,8 +12,8 @@ https://pr.to/8K1GCM/
 Backup Link:
 https://pr.to/8PNDYG/
 
-It can be cloned in this repository with:
-https://github.com/Chen-Jiang042/DECO3500-Project-Pending.git
+Due to the maximum size of upload file on Github is small than 25MB, we provide Google Drive link for download:
+https://drive.google.com/file/d/1QgeNY2fZ6g5OtT4dARtFQ1NeqphuVb79/view?usp=sharing
 
 **Pay attentions!** The file has a large number of Videos (mp4.) Download file might take times and memory (492MB)
 
