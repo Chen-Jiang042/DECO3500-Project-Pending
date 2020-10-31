@@ -27,3 +27,7 @@ In this part, we have fully implemented our prototype and demonstrated it to oth
 ## Part 6 Document (https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Appendix):
 
 This part include the appendix and resources we used.
+
+## The instructions for using our prototype:
+
+Using our prototype is very simple, you only need to click on our link to use our prototype. https://share.proto.io/8PNDYG/
