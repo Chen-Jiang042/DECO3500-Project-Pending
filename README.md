@@ -13,7 +13,7 @@ Backup Link:
 https://pr.to/8PNDYG/
 
 Due to the maximum size of upload file on Github is small than 25MB, we provide Google Drive link for download:
-https://drive.google.com/file/d/1QgeNY2fZ6g5OtT4dARtFQ1NeqphuVb79/view?usp=sharing
+https://drive.google.com/drive/folders/1pnP6E5QEfK-9VyDxBKGbw7VIdv8HOjFR?usp=sharing
 
 **Pay attentions!** The file has a large number of Videos (mp4.) Download file might take times and memory (492MB)
 
