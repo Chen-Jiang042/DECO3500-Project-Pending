@@ -62,5 +62,5 @@ The installation detail can be found in the section:
 
 ## Part 6: Document
 * [Appendix](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Appendix)
-   * [Questionnaire Interview Result](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/First-Interview-Questionnaire)
+   * [Questionnaire Interview Result](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/Questionnaire-InterviewResult)
    * [SUS test](https://github.com/Chen-Jiang042/DECO3500-Project-Pending/wiki/SUS-test)
